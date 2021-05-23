@@ -1,3 +1,9 @@
+# Additional files
+
+.DS_Store
+
+config.py
+
 # Compiled class file
 *.class
 
